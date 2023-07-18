@@ -1,0 +1,1 @@
+npx ts-node $1/index.ts

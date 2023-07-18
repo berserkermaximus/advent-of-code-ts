@@ -1,0 +1,28 @@
+{
+  "name": "advent-of-code-ts",
+  "version": "1.0.0",
+  "description": "solving advent of code problems from 2022",
+  "main": "None",
+  "scripts": {
+    "test": "None"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berserkermaximus/advent-of-code-ts.git"
+  },
+  "keywords": [
+    "advent-of-code",
+    "typescript"
+  ],
+  "author": "BeserkerMaximus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berserkermaximus/advent-of-code-ts/issues"
+  },
+  "homepage": "https://github.com/berserkermaximus/advent-of-code-ts#readme",
+  "dependencies": {
+    "@types/node": "^20.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
