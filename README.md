@@ -1,2 +1,2 @@
 # advent-of-code-ts
-solving advent of code problems
+solving advent of code problems using Typescript.
